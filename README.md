@@ -5,7 +5,7 @@ A given data set contains variables, which are used to calculate the species wel
 The first task is to train the model to predict this index with the highest possible level of certainty.
 The second task is to achieve the highest possible level of well-being through optimized allocation of additional energy (50K units).
 The constraints are:
-* no galaxy will consume more than 100 zillion DSML
+* no galaxy will consume more than 100 energy units
 * at least 10% of the total energy will be consumed by galaxies in need with existence expectancy index below 0.7.
 
 Variables:
